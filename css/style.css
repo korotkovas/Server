@@ -1,0 +1,29 @@
+.red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+table {
+    margin: 0 auto;
+}
+
+form {
+    margin: 0 auto;
+    width: 500px;
+    padding: 150px;
+    text-align: right;
+}
+
+input {
+    margin: 10px;
+}
+
+.buttonholder {
+    margin: 20px 200px;
+}
